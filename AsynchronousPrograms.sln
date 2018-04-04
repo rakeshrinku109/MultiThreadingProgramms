@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSynchronization", "ThreadSynchronization\ThreadSynchronization.csproj", "{223E7CDC-9173-4487-8E0C-D76239FF342C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPoolApplication", "ThreadPoolApplication\ThreadPoolApplication.csproj", "{C4C5A51E-002A-454C-94DA-6BD771F46E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicate_Delegate", "Predicate_Delegate\Predicate_Delegate.csproj", "{3EB8D3F7-B19A-402D-AFB5-FF4ED89CEE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomList", "CustomList\CustomList.csproj", "{80127D0B-2D40-41D3-99B6-1DA9C06983AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yieldkeywordtest", "Yieldkeywordtest\Yieldkeywordtest.csproj", "{B02AA3EB-533D-4E2C-9963-6CDC23B886C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "MUltithreading\Multithreading.csproj", "{AE8AB5E0-3C0E-4A97-94A1-BF3ED98CDA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpFundametals", "cSharpFundametals\cSharpFundametals.csproj", "{D757F320-82F1-4C42-B8F6-B65278CA47EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223E7CDC-9173-4487-8E0C-D76239FF342C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223E7CDC-9173-4487-8E0C-D76239FF342C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223E7CDC-9173-4487-8E0C-D76239FF342C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223E7CDC-9173-4487-8E0C-D76239FF342C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4C5A51E-002A-454C-94DA-6BD771F46E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C5A51E-002A-454C-94DA-6BD771F46E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C5A51E-002A-454C-94DA-6BD771F46E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C5A51E-002A-454C-94DA-6BD771F46E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB8D3F7-B19A-402D-AFB5-FF4ED89CEE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB8D3F7-B19A-402D-AFB5-FF4ED89CEE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB8D3F7-B19A-402D-AFB5-FF4ED89CEE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB8D3F7-B19A-402D-AFB5-FF4ED89CEE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80127D0B-2D40-41D3-99B6-1DA9C06983AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80127D0B-2D40-41D3-99B6-1DA9C06983AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80127D0B-2D40-41D3-99B6-1DA9C06983AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80127D0B-2D40-41D3-99B6-1DA9C06983AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02AA3EB-533D-4E2C-9963-6CDC23B886C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02AA3EB-533D-4E2C-9963-6CDC23B886C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02AA3EB-533D-4E2C-9963-6CDC23B886C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02AA3EB-533D-4E2C-9963-6CDC23B886C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8AB5E0-3C0E-4A97-94A1-BF3ED98CDA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8AB5E0-3C0E-4A97-94A1-BF3ED98CDA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8AB5E0-3C0E-4A97-94A1-BF3ED98CDA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8AB5E0-3C0E-4A97-94A1-BF3ED98CDA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D757F320-82F1-4C42-B8F6-B65278CA47EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D757F320-82F1-4C42-B8F6-B65278CA47EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D757F320-82F1-4C42-B8F6-B65278CA47EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D757F320-82F1-4C42-B8F6-B65278CA47EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rakeshtestapplicationproject.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ThreadSynchronization\\ThreadSynchronization.csproj
+		SccProjectName1 = ThreadSynchronization
+		SccLocalPath1 = ThreadSynchronization
+		SccProjectUniqueName2 = ThreadPoolApplication\\ThreadPoolApplication.csproj
+		SccProjectName2 = ThreadPoolApplication
+		SccLocalPath2 = ThreadPoolApplication
+		SccProjectUniqueName3 = Predicate_Delegate\\Predicate_Delegate.csproj
+		SccProjectName3 = Predicate_Delegate
+		SccLocalPath3 = Predicate_Delegate
+		SccProjectUniqueName4 = CustomList\\CustomList.csproj
+		SccProjectName4 = CustomList
+		SccLocalPath4 = CustomList
+		SccProjectUniqueName5 = Yieldkeywordtest\\Yieldkeywordtest.csproj
+		SccProjectName5 = Yieldkeywordtest
+		SccLocalPath5 = Yieldkeywordtest
+		SccProjectUniqueName6 = MUltithreading\\MUltithreading.csproj
+		SccProjectName6 = MUltithreading
+		SccLocalPath6 = MUltithreading
+		SccProjectUniqueName7 = cSharpFundametals\\cSharpFundametals.csproj
+		SccProjectName7 = cSharpFundametals
+		SccLocalPath7 = cSharpFundametals
+	EndGlobalSection
+EndGlobal
